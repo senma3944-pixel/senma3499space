@@ -1,0 +1,7 @@
+{
+  "name": "AI 虚拟换装 (Virtual Try-On AI)",
+  "description": "基于 Gemini 2.5 Flash Image 的智能换装应用，提供完整的开发者手册与交互式体验。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

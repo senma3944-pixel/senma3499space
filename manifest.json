@@ -1,0 +1,22 @@
+
+{
+  "name": "StyleStudio AI 时尚设计室",
+  "short_name": "StyleStudio",
+  "description": "基于 Gemini AI 的全视角虚拟换装实验室",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F9FB",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3534/3534312.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3534/3534312.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
